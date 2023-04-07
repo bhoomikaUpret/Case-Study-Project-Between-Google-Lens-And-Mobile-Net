@@ -1,0 +1,66 @@
+h3
+{
+    display: inline;
+}
+
+.container
+{
+    background-color: grey;
+    border-radius: 9px;
+    padding:10px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    box-shadow: 5px 5px 30px grey;
+}
+
+.copy_right_footer
+{
+    box-shadow: 5px 5px 30px grey;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 30px;
+    line-height:1.5cm;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.googlelens
+{
+    background-color: white;
+    border-radius: 18px;
+    font-size: 18px;
+    line-height: 1cm;
+}
+
+.mobilenet
+{
+    background-color: white;
+    border-radius: 18px;
+    font-size: 18px;
+    line-height: 1cm;
+}
+
+.mini_result
+{
+    color: white;
+}
+
+h4
+{
+    color: white;
+}
+
+.image
+{
+    color: white;
+}
+
+b
+{
+   color: purple; 
+}
